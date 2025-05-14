@@ -19,7 +19,7 @@ This Arduino sketch is designed to control a sequence of LED blinks on pins 5 th
 2. Connect a current-limiting resistor (220Ω or 1kΩ) in series with each LED.
 3. Connect the other leg of each LED to ground (GND).
 
-![20250514_121950](https://github.com/user-attachments/assets/070541a8-bb23-4274-9619-ea2501e454ea)
+![20250514_121906](https://github.com/user-attachments/assets/f7e65a73-9d23-4a44-88e7-8df69573215f)
 
 ## Software Requirements
 
