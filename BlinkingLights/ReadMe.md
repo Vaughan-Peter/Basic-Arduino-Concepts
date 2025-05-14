@@ -1,4 +1,4 @@
-<span style="font-size: 36px;">Arduino LED Blink Sequence</span>
+<span style="font-size: 66px;">Arduino LED Blink Sequence</span>
 
 This Arduino sketch is designed to control a sequence of LED blinks on pins 5 through 13 of an Arduino board. It utilizes loops to blink LEDs in different patterns with varying delays.
 
