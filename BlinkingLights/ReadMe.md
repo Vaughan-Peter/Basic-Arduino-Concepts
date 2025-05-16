@@ -4,6 +4,8 @@ This Arduino sketch is designed to control a sequence of LED blinks on pins 5 th
 
 ![20250514_121950](https://github.com/user-attachments/assets/32f852e9-6527-4a76-b89d-c06939075765)
 
+[![Watch the demo](https://img.youtube.com/vi/ufaaUqwizPc/0.jpg)](https://www.youtube.com/shorts/ufaaUqwizPc)
+
 ## Hardware Requirements
 
 - Arduino Board (e.g., Arduino Uno)
@@ -29,7 +31,9 @@ This Arduino sketch is designed to control a sequence of LED blinks on pins 5 th
 ## Setup Instructions
 
 1. Open the Arduino IDE.
-2. Create a new sketch and copy-paste the code below into the sketch.
-3. Connect your Arduino board to your computer.
-4. Select the correct board and port under the "Tools" menu.
-5.
+2. Create a new sketch.
+3. Copy and paste the code.
+4. Connect your Arduino via USB.
+5. Go to Tools > Board and select your Arduino model.
+6. Go to Tools > Port and select the port labeled with your Arduino.
+7. Click Upload to run the sketch on your board.
