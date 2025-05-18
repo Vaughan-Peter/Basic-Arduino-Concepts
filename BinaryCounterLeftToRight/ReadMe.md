@@ -62,9 +62,11 @@ For each LED:
 
 ## 📽️ Video Demonstration
 
-Watch the project in action on **Learning Arduino Concepts**:  
+Watch various projects on **Learning Arduino Concepts**:  
 📺 [https://www.youtube.com/@Learning-Arduino-Concepts](https://www.youtube.com/@Learning-Arduino-Concepts)
 
+▶️ Watch this specific project in action:  
+🎬 [https://www.youtube.com/shorts/l81iKlkvmDI](https://www.youtube.com/shorts/l81iKlkvmDI)
 ---
 
 ## 📝 License
