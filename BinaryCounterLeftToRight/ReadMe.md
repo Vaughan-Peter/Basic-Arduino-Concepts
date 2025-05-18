@@ -23,7 +23,7 @@ This project implements a **9-bit binary counter** using an **Arduino Uno** and 
 
 <br>
 
-![Binary Counter Circuit with Extra Power LED]![20250518_180741](https://github.com/user-attachments/assets/082ad5d4-b6ed-446e-8e81-6745b9c80353)
+###[Binary Counter Circuit with Extra Power LED]![20250518_180741](https://github.com/user-attachments/assets/082ad5d4-b6ed-446e-8e81-6745b9c80353)
 
 ---
 
@@ -56,7 +56,7 @@ For each LED:
 4. The counter stops using `while (true);`, locking the display.
 <br>
 
-![Binary Counter Circuit with Extra Power LED]![20250518_180656](https://github.com/user-attachments/assets/55369363-7ba6-4e20-9cde-31e2d0caf910)
+###[Binary Counter Circuit with Extra Power LED]![20250518_180656](https://github.com/user-attachments/assets/55369363-7ba6-4e20-9cde-31e2d0caf910)
 
 ---
 
