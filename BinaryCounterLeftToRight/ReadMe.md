@@ -20,7 +20,10 @@ This project implements a **9-bit binary counter** using an **Arduino Uno** and 
 - 9 × 220Ω resistors
 - Breadboard and jumper wires
 - Optional: Portable USB battery pack (for standalone use)
-![20250518_180741](https://github.com/user-attachments/assets/082ad5d4-b6ed-446e-8e81-6745b9c80353)
+
+<br>
+
+![Binary Counter Circuit with Extra Power LED][20250518_180741](https://github.com/user-attachments/assets/082ad5d4-b6ed-446e-8e81-6745b9c80353)
 
 ---
 
