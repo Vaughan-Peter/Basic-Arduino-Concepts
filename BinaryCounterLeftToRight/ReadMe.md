@@ -1,4 +1,4 @@
-# 🔢 Arduino Binary Counter (Pins 5–13)
+# 🔢 Arduino Binary Counter Left To Right (Pins 5–13)
 
 This project implements a **9-bit binary counter** using an **Arduino Uno** and **9 LEDs** connected to **digital pins 5 through 13**. The counter starts from `000000000` (decimal 0) and counts up to `111111111` (decimal 511), lighting the LEDs accordingly. Once all LEDs are ON (binary 511), the counter stops.
 
@@ -13,7 +13,7 @@ This project implements a **9-bit binary counter** using an **Arduino Uno** and 
 
 ---
 
-## ⚙️ Hardware Requirements
+## ⚙️ Hardware Recommended Requirements
 
 - 1 × Arduino Uno (or compatible)
 - 9 × LEDs
@@ -42,7 +42,7 @@ For each LED:
 
 ---
 
-## 🧠 How It Works
+## 🧠 How Does It Works
 
 1. The `loop()` function counts from 0 to 511.
 2. Each number is displayed in binary on the LEDs.
