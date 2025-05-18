@@ -1,7 +1,7 @@
 # 🔢 Arduino Binary Counter Left To Right (Pins 5–13)
 
 This project implements a **9-bit binary counter** using an **Arduino Uno** and **9 LEDs** connected to **digital pins 5 through 13**. The counter starts from `000000000` (decimal 0) and counts up to `111111111` (decimal 511), lighting the LEDs accordingly. Once all LEDs are ON (binary 511), the counter stops.
-
+<br>
 ---
 
 ## 📦 Features
@@ -10,7 +10,7 @@ This project implements a **9-bit binary counter** using an **Arduino Uno** and 
 - Displays real-time binary counting using LEDs
 - Automatically stops when the counter reaches the maximum (511)
 - Easy to expand or modify for fewer/more bits
-
+<br>
 ---
 
 ## ⚙️ Recommended Hardware
@@ -24,7 +24,7 @@ This project implements a **9-bit binary counter** using an **Arduino Uno** and 
 <br>
 
 [Binary Counter Circuit with Battery Pack and Extra Power LED]![20250518_180741](https://github.com/user-attachments/assets/082ad5d4-b6ed-446e-8e81-6745b9c80353)
-
+<br>
 ---
 
 ## 🔌 Wiring Diagram
@@ -45,7 +45,7 @@ For each LED:
 | 11          | Bit 6              |
 | 12          | Bit 7              |
 | 13          | MSB (Bit 8)        |
-
+<br>
 ---
 
 ## 🧠 How It Works
@@ -57,7 +57,7 @@ For each LED:
 <br>
 
 [Binary Counter Circuit with Binary Count = 511 & Extra Power LED]![20250518_180656](https://github.com/user-attachments/assets/55369363-7ba6-4e20-9cde-31e2d0caf910)
-
+<br>
 ---
 
 ## 📽️ Video Demonstration
@@ -67,12 +67,13 @@ Watch various projects on **Learning Arduino Concepts**:
 
 ▶️ Watch this specific project in action:  
 🎬 [https://www.youtube.com/shorts/l81iKlkvmDI](https://www.youtube.com/shorts/l81iKlkvmDI)
+<br>
 ---
 
 ## 📝 License
 
 This project is **open-source** and free to use for **educational purposes**.
-
+<br>
 ---
 
 ## 💡 Tips
