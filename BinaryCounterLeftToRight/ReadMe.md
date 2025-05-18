@@ -16,6 +16,7 @@ This project implements a **9-bit binary counter** using an **Arduino Uno** and 
 
 ---
 <br>
+
 ## ⚙️ Recommended Hardware
 
 - 1 × Arduino Uno (or compatible)
@@ -68,6 +69,7 @@ For each LED:
 
 ---
 <br>
+
 ## 📽️ Video Demonstration
 
 Watch various projects on **Learning Arduino Concepts**:  
@@ -87,6 +89,7 @@ This project is **open-source** and free to use for **educational purposes**.
 
 ---
 <br>
+
 ## 💡 Tips
 
 - To restart the counter, press the **reset button** on the Arduino or **disconnect and reconnect** power.
