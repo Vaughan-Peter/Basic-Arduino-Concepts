@@ -13,19 +13,21 @@ This project implements a **9-bit binary counter** using an **Arduino Uno** and 
 
 ---
 
-## ⚙️ Hardware Recommended Requirements
+## ⚙️ Recommended Hardware
 
 - 1 × Arduino Uno (or compatible)
 - 9 × LEDs
 - 9 × 220Ω resistors
 - Breadboard and jumper wires
+- Optional: Portable USB battery pack (for standalone use)
 
 ---
 
 ## 🔌 Wiring Diagram
 
 For each LED:
-- Connect the **anode** (long leg) to a resistor and then to a digital pin (5–13)
+
+- Connect the **anode** (long leg) to a **resistor**, then to a digital pin (5–13)
 - Connect the **cathode** (short leg) to **GND**
 
 | Arduino Pin | LED Position (Bit) |
@@ -42,28 +44,29 @@ For each LED:
 
 ---
 
-## 🧠 How Does It Works
+## 🧠 How It Works
 
 1. The `loop()` function counts from 0 to 511.
-2. Each number is displayed in binary on the LEDs.
-3. When the count reaches 511 (`111111111`), all LEDs turn ON.
-4. The counter stops by entering an infinite loop (`while (true);`).
+2. Each value is displayed as binary on the LEDs (left to right: LSB to MSB).
+3. When the count reaches `511` (`111111111` in binary), all LEDs turn ON.
+4. The counter stops using `while (true);`, locking the display.
 
 ---
 
 ## 📽️ Video Demonstration
 
-Watch the project in action on **Learning Arduino Concepts**:
+Watch the project in action on **Learning Arduino Concepts**:  
 📺 [https://www.youtube.com/@Learning-Arduino-Concepts](https://www.youtube.com/@Learning-Arduino-Concepts)
 
 ---
 
 ## 📝 License
 
-This project is open-source and free to use for educational purposes.
+This project is **open-source** and free to use for **educational purposes**.
 
 ---
 
-## 💡 Tip
+## 💡 Tips
 
-To restart the counter after it stops, press the **reset button** on your Arduino Uno or power cycle the board.
+- To restart the counter, press the **reset button** on the Arduino or **disconnect and reconnect** power.
+- You can hook up a **portable USB battery** to run the Arduino without a computer.
