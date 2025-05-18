@@ -51,6 +51,9 @@ For each LED:
 2. Each value is displayed as binary on the LEDs (left to right: LSB to MSB).
 3. When the count reaches `511` (`111111111` in binary), all LEDs turn ON.
 4. The counter stops using `while (true);`, locking the display.
+<br>
+
+![Binary Counter Circuit with Extra Power LED][20250518_180656](https://github.com/user-attachments/assets/55369363-7ba6-4e20-9cde-31e2d0caf910)
 
 ---
 
