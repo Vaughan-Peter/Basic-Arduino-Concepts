@@ -2,6 +2,9 @@
 
 This Arduino project demonstrates how to use a **photoresistor (light sensor)** to control multiple LEDs. As light intensity increases, more LEDs light up. This is a great beginner project to understand analog input and output with visual feedback.
 
+![20250604_095757](https://github.com/user-attachments/assets/34a02e06-ed52-4352-9c75-71bede6c5597)
+
+
 ## 📁 Project File
 
 - [`PhotoresisterExamples.ino`](./PhotoresisterExamples.ino)
@@ -29,7 +32,7 @@ This Arduino project demonstrates how to use a **photoresistor (light sensor)** 
 
 Watch this project and others in action on **Learning Arduino Concepts**:  
 👉 [https://www.youtube.com/@Learning-Arduino-Concepts](https://www.youtube.com/@Learning-Arduino-Concepts)
-
+👉 [https://www.youtube.com/shorts/GgrAIMQA5rc](https://www.youtube.com/shorts/GgrAIMQA5rc)
 ## 💡 How It Works
 
 - The photoresistor senses ambient light levels.
@@ -42,6 +45,10 @@ Watch this project and others in action on **Learning Arduino Concepts**:
 2. Adjust the orientation or placement of the photoresistor for best sensitivity.
 3. Observe how the LEDs light up based on light intensity.
 
+![20250604_095806](https://github.com/user-attachments/assets/c6434baa-f7e3-41e3-ae53-c4c473274928)
+
 ---
 
 Happy tinkering! ⚡
+
+
