@@ -31,8 +31,9 @@ This Arduino project demonstrates how to use a **photoresistor (light sensor)** 
 ## 📽️ Video Demonstration
 
 Watch this project and others in action on **Learning Arduino Concepts**:  
-👉 [https://www.youtube.com/@Learning-Arduino-Concepts](https://www.youtube.com/@Learning-Arduino-Concepts)
-👉 [https://www.youtube.com/shorts/GgrAIMQA5rc](https://www.youtube.com/shorts/GgrAIMQA5rc)
+👉 [Channel: Learning Arduino Concepts](https://www.youtube.com/@Learning-Arduino-Concepts)  
+👉 [Project Demo: Photoresistor LEDs](https://www.youtube.com/shorts/GgrAIMQA5rc)
+
 ## 💡 How It Works
 
 - The photoresistor senses ambient light levels.
