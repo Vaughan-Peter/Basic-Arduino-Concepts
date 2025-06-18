@@ -7,7 +7,7 @@ This Arduino project demonstrates how to combine C++ and AVR Assembly in a sketc
 
 ## 📁 Files
 
-- `StructAddWithAsm.ino` — Main Arduino sketch that handles user input and calls the assembly function.
+- `RunAssembly.ino` — Main Arduino sketch that handles user input and calls the assembly function.
 - `Assembly.S` — AVR Assembly file containing the `addNumbers` function.
 
 ---
