@@ -56,7 +56,7 @@ addNumbers:
 ## 📦 Upload Instructions
 
 1. Create a new sketch in Arduino IDE.
-2. Copy `StructAddWithAsm.ino` into it.
+2. Copy `RunAssembly.ino` into it.
 3. Add `Assembly.S` to the same folder.
 4. Compile and upload to an AVR board.
 5. Open Serial Monitor and enter two integers.
