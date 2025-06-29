@@ -2,7 +2,7 @@
 
 Welcome to the **Learning Arduino Concepts** repository! This project explores how to use a touch sensor with an Arduino to control LEDs in creative and interactive ways.
 
-🔔 **Please [Like and Subscribe](https://www.youtube.com/@Learning-Arduino-Concepts) to our YouTube channel for more tutorials and demonstrations!**
+🔔 **Please [Like and Subscribe](https://www.youtube.com/@Learning-Arduino-Concepts) to our YouTube channel for more tutorials and demonstrations!**  
 🔔 **Please [View Touch Sensor Video](https://www.youtube.com/shorts/8rc3-l6SLeU) for a showcase of working code!**
 
 ---
