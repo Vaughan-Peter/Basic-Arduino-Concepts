@@ -56,9 +56,3 @@ Watch a live demo of the project on YouTube:
 4. **Chase (One LED ON at a time)**
 
 ---
-
-## 📁 File Structure
-
-LEDPatterns/
-├── LEDPatterns.ino # Main sketch (button logic and pattern switching)
-└── Patterns.h # LED pattern functions
