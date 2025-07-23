@@ -58,3 +58,7 @@ Watch a live demo of the project on YouTube:
 ---
 
 ## 📁 File Structure
+
+LEDPatterns/
+├── LEDPatterns.ino # Main sketch (button logic and pattern switching)
+└── Patterns.h # LED pattern functions
