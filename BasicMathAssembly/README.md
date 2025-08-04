@@ -15,7 +15,7 @@ This Arduino project demonstrates basic arithmetic operations — **Add, Subtrac
   - `subtract()`
   - `multiply()`
   - `divide()`
-- The `divide()` function handles divide-by-zero gracefully by returning `-9999`.
+  - The `divide()` function handles divide-by-zero gracefully with error-handling.
 
 ---
 
