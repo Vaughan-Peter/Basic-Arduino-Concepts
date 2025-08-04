@@ -1,69 +1,73 @@
+# 🧮 Arduino Assembly Math Operations
 
-# 🔢 StructAddWithAsm - Arduino Serial Addition with Assembly
+This Arduino project demonstrates basic arithmetic operations — **Add, Subtract, Multiply, Divide** — performed using **AVR assembly language**. Each operation is implemented in its own `.S` file and connected to an `.ino` sketch that randomly generates numbers and prints results to the Serial Monitor.
 
-This Arduino project demonstrates how to combine C++ and AVR Assembly in a sketch. It prompts users to input **two numbers via the Serial Monitor**, and it uses a custom **assembly function** (`addNumbers`) to perform the addition.
-
----
-
-## 📁 Files
-
-- `StructAddWithAsm.ino` — Main Arduino sketch that handles user input and calls the assembly function.
-- `Assembly.S` — AVR Assembly file containing the `addNumbers` function.
+[▶️ Watch the video demonstration](https://www.youtube.com/watch?v=VtXvaSJLR9s)  
+[📺 Visit the channel: Learning Arduino Concepts](https://www.youtube.com/@Learning-Arduino-Concepts)
 
 ---
 
-## 🧠 Features
+## ⚙️ How It Works
 
-- 🖥 Serial-based input for two integers
-- ⚙️ Calls a 16-bit AVR assembly function to perform addition
-- 📡 Clean and clear serial buffer handling
-- 🔁 Allows repeated number entry and dynamic computation
-
----
-
-## 🚀 How It Works
-
-1. User is prompted to enter the **first number** via Serial Monitor.
-2. Then prompted to enter the **second number**.
-3. The two numbers are passed to `addNumbers` defined in `Assembly.S`.
-4. Result is printed back to the Serial Monitor.
-5. Program resets for new input.
+- The `.ino` sketch runs continuously and generates two random integers: `a` and `b`.
+- Each pair is passed to four math functions written in AVR assembly:
+  - `add()`
+  - `subtract()`
+  - `multiply()`
+  - `divide()`
+- The `divide()` function handles divide-by-zero gracefully by returning `-9999`.
 
 ---
 
-## 🧩 Assembly Function: `addNumbers`
+## 💡 Features
 
-```asm
-addNumbers:
-    add r24, r22     ; Low byte addition
-    adc r25, r23     ; High byte addition with carry
-    ret
-```
-
-- Accepts two 16-bit integers in `r22:r23` and `r24:r25`
-- Returns the 16-bit result in `r24:r25`
+- 💾 8-bit to 16-bit integer math using low-level AVR instructions  
+- ❌ Division-by-zero error handling  
+- 🔄 Continuous random test cases every 5 seconds  
+- 🖨️ Serial output for easy debugging and learning
 
 ---
 
-## 🔧 Requirements
+## 🛠️ Getting Started
 
-- Arduino IDE
-- AVR-based board (e.g., Arduino Uno, Nano)
-- Both `.ino` and `.S` files must be in the same sketch folder
-
----
-
-## 📦 Upload Instructions
-
-1. Create a new sketch in Arduino IDE.
-2. Copy `StructAddWithAsm.ino` into it.
-3. Add `Assembly.S` to the same folder.
-4. Compile and upload to an AVR board.
-5. Open Serial Monitor and enter two integers.
+1. Clone or download this repository.
+2. Open `MathOperations.ino` in the **Arduino IDE**.
+3. Make sure all `.S` files are in the **same directory** as the `.ino` file.
+4. Connect an **AVR-compatible board** (e.g., Arduino Uno).
+5. Upload the sketch.
+6. Open the **Serial Monitor** at `9600 baud`.
 
 ---
 
-## 📌 Notes
+## 🧠 AVR Register Notes
 
-- Handles 16-bit integer addition. Does **not** handle overflow detection.
-- For educational purposes to demonstrate inline assembly with Arduino.
+In AVR-GCC, function arguments are passed like so:
+
+| Argument | Register     |
+|----------|--------------|
+| `int a`  | `r24:r25`     |
+| `int b`  | `r22:r23`     |
+| Return   | `r24:r25`     |
+
+Your assembly functions must follow this convention when reading/writing inputs and outputs.
+
+---
+
+## 🔗 Resources
+
+- [AVR Instruction Set Manual (Microchip)](https://ww1.microchip.com/downloads/en/DeviceDoc/AVR-Instruction-Set-Manual-DS40002198A.pdf)
+- [AVR-GCC Calling Convention](https://gcc.gnu.org/wiki/avr-gcc)
+
+---
+
+## 🎓 Learn More
+
+🔔 **Subscribe and follow for more Arduino and assembly tutorials:**  
+[📺 Learning Arduino Concepts – YouTube Channel](https://www.youtube.com/@Learning-Arduino-Concepts)
+
+---
+
+## 🧑‍💻 License
+
+Feel free to use or modify this project for learning or personal experimentation.
+
