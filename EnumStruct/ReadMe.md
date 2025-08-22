@@ -17,9 +17,15 @@ The Arduino is powered by a **portable USB battery bank**, making it completely 
 
 ---
 
-## 🔹 Demo Video
+## 🔹 Demo Video With Description
 🎥 Watch the project in action on YouTube:  
 [![YouTube Video](https://img.shields.io/badge/YouTube-Watch%20Now-red?logo=youtube)](https://www.youtube.com/shorts/zWFMQT1wUyw)
+
+---
+
+## 🔹 Other Demo Video With Music
+🎥 Watch the project in action on YouTube:  
+[![YouTube Video](https://img.shields.io/badge/YouTube-Watch%20Now-red?logo=youtube)](https://www.youtube.com/shorts/4WmTPkujEdY)
 
 ---
 
