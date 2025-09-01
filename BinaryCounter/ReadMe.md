@@ -66,8 +66,6 @@ For example:
 
 ---
 
-## 📷 Demo Idea
-
 ##  Demo Idea & Resources
 
 - Record a short **video or GIF** of the LEDs cycling through the count—this is both fun and useful for demonstrations.  
@@ -83,3 +81,4 @@ For example:
 This project is licensed under the **MIT License** – free to use, share, and modify.  
 
 ---
+
