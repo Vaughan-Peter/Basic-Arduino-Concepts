@@ -51,6 +51,8 @@ void loop() {
   }
 }
 
+---
+
 ## ▶️ How It Works
 
 The program counts from **0 → 63**.  
@@ -79,3 +81,5 @@ For example:
 
 
 This project is licensed under the **MIT License** – free to use, share, and modify.  
+
+---
