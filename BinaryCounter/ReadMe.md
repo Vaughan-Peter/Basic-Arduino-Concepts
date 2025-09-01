@@ -31,7 +31,6 @@ Each LED connects from an Arduino pin → resistor (220Ω) → LED (anode) → G
 ## 💻 Code
 Upload this sketch to your Arduino:
 
-```cpp
 // Binary Counter on Arduino using pins D8 to D13
 
 const int pins[] = {8, 9, 10, 11, 12, 13};
@@ -74,10 +73,9 @@ For example:
 - Here's a helpful tutorial video that walks through setting up an Arduino LED binary counter, which is great to embed or reference:
 
 
-::contentReference[oaicite:0]{index=0}
-
 ---
 
 ## 📚 License
+
 
 This project is licensed under the **MIT License** – free to use, share, and modify.  
