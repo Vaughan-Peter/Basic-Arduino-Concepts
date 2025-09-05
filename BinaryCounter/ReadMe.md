@@ -69,7 +69,8 @@ For example:
 ##  Demo Idea & Resources
 
 - Record a short **video or GIF** of the LEDs cycling through the count—this is both fun and useful for demonstrations.  
-- Check out the [Learning Arduino Concepts YouTube Channel (shorts)](https://www.youtube.com/@Learning-Arduino-Concepts/shorts) for quick, visual Arduino explanations.  
+- Check out the [Learning Arduino Concepts YouTube Channel (shorts)](https://www.youtube.com/@Learning-Arduino-Concepts/shorts) for quick, visual Arduino explanations.
+- Check out the [Cosde In Action]([https://www.youtube.com/@Learning-Arduino-Concepts/shorts](https://www.youtube.com/shorts/8bdVb5P90oU)) for quick, visual Arduino example.
 - Here's a helpful tutorial video that walks through setting up an Arduino LED binary counter, which is great to embed or reference:
 
 
@@ -81,4 +82,5 @@ For example:
 This project is licensed under the **MIT License** – free to use, share, and modify.  
 
 ---
+
 
