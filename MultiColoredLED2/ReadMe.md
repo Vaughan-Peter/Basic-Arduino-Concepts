@@ -34,7 +34,7 @@ If you’d like to:
 - Suggest new ideas or learning examples  
 - Help create guides, videos, or tutorials  
 
-…feel free to open an issue, submit a pull request, or reach out through GitHub.  
+Feel free to open an issue, submit a pull request, or reach out through GitHub.  
 Let’s build cool Arduino projects together and share what we learn along the way!
 
 ---
