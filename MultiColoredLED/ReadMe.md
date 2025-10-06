@@ -42,6 +42,13 @@ A YouTube tutorial accompanies this project:
 - **KY-016 Datasheet:** [joy-it.net PDF](https://joy-it.net/files/files/Produkte/COM-KY016-RGBLED/COM-KY016RGBLED-Datasheet.pdf)
 
 ---
+## 🎥 Featured Project
+**MultiColoredLED – KY-016 RGB LED Module**
+
+Watch the demo video on YouTube:  
+▶️ [https://www.youtube.com/shorts/1LlBJGCEUrE](https://www.youtube.com/shorts/1LlBJGCEUrE)
+
+---
 
 ## 🤝 Collaboration
 I’m open to collaboration and contributions!  
