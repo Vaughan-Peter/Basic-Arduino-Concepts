@@ -55,22 +55,14 @@ Want to dive deeper into Arduino basics? Check out the official Arduino getting 
 - 🐞 Open an [issue](https://github.com/) in this repository
 
 
-## 🖼️ Images – Different Types of Arduino Boards
-
-Here are some examples of popular Arduino boards used for various projects and learning purposes.
+## 🖼️ Components & Arduino Visuals
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6d972fb3-8249-44e7-a47a-7c1334130b54" alt="Various Arduino Boards" width="800" />
+  <img src="https://images.unsplash.com/…/arduino-components-unsplash.jpg" alt="Arduino with LEDs and resistors" width="600" />  
+  <img src="https://www.pickpik.com/…/arduino-breadboard-components.jpg" alt="Breadboard setup with LEDs, resistors, Arduino" width="600" />  
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/afce0aeb-eab7-4ed6-a450-73ba1378bca8" alt="Different Arduino Models" width="800" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/0855abe3-38ea-40a2-bd6d-0856fadcc088" alt="Popular Arduino Boards Comparison" width="800" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/64d33283-fd44-4eaf-b5fa-b7f0aa68d7d4" alt="Arduino Board Layouts" width="800" />
+  <img src="https://images.unsplash.com/…/arduino-board-light.jpg" alt="Close up of Arduino board" width="600" />  
+  <img src="https://www.needpix.com/…/arduino-leds-components.jpg" alt="Arduino board with assorted components" width="600" />  
 </p>
