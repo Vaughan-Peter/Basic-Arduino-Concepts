@@ -54,15 +54,7 @@ Want to dive deeper into Arduino basics? Check out the official Arduino getting 
 - 🗨️ Comment on our YouTube videos
 - 🐞 Open an [issue](https://github.com/) in this repository
 
-
-## 🖼️ Components & Arduino Visuals
-
 <p align="center">
-  <img src="https://images.unsplash.com/…/arduino-components-unsplash.jpg" alt="Arduino with LEDs and resistors" width="600" />  
-  <img src="https://www.pickpik.com/…/arduino-breadboard-components.jpg" alt="Breadboard setup with LEDs, resistors, Arduino" width="600" />  
-</p>
-
-<p align="center">
-  <img src="https://images.unsplash.com/…/arduino-board-light.jpg" alt="Close up of Arduino board" width="600" />  
-  <img src="https://www.needpix.com/…/arduino-leds-components.jpg" alt="Arduino board with assorted components" width="600" />  
+  <img src="docs/images/arduino-components-1.jpg" alt="Arduino with LEDs, resistors, photoresistors" width="700" />
+  <br><em>Arduino UNO with LEDs, resistors and photoresistors</em>
 </p>
