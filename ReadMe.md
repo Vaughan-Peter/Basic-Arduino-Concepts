@@ -54,7 +54,4 @@ Want to dive deeper into Arduino basics? Check out the official Arduino getting 
 - 🗨️ Comment on our YouTube videos
 - 🐞 Open an [issue](https://github.com/) in this repository
 
-<p align="center">
-  <img src="docs/images/arduino-components-1.jpg" alt="Arduino with LEDs, resistors, photoresistors" width="700" />
-  <br><em>Arduino UNO with LEDs, resistors and photoresistors</em>
-</p>
+
