@@ -8,18 +8,18 @@ Contributions of all kinds are welcome — from fixing typos to writing code exa
 
 ## 📌 How You Can Contribute
 
-- **Improve Documentation**  
-  Add explanations, tutorials, or diagrams to help others learn.
+- **📝 Improve Documentation**  
+  Add explanations, tutorials, or diagrams to help others learn. Clear and visual guides are always welcome!
 
-- **Code Contributions**  
-  Add new Arduino sketches, images, schematics, examples, or improve existing code.  
-  Try to keep examples clear, well-commented, and beginner-friendly.
+- **💻 Code Contributions**  
+  Add new Arduino sketches, images, schematics, or improve existing code.  
+  Keep examples simple, well-commented, and beginner-friendly so others can easily follow along.
 
-- **Issues & Ideas**  
-  Open an [Issue](../../issues) if you find a bug, want to request a feature, or have a teaching idea.
+- **💡 Share Ideas or Feedback**  
+  If you spot a bug, have a teaching idea, or want to suggest a new feature, you can comment on our YouTube videos or start a discussion in the repo once that feature is enabled.
 
-- **Community Help**  
-  Answer questions in Issues, review pull requests, or share your learning experience.
+- **🤝 Community Support**  
+  Help answer questions, review pull requests, or share your learning experiences to make the community stronger.
 
 ---
 
@@ -34,11 +34,12 @@ Contributions of all kinds are welcome — from fixing typos to writing code exa
 
 ## 💬 Communication
 
-If you’d like to discuss ideas before working on them, feel free to:
+Have a question, idea, or issue to report?  
+You’re welcome to reach out directly by email:
 
-- Open an [Issue](../../issues)  
-- Reach out via [LinkedIn](https://www.linkedin.com/in/peter-vaughan-997478239/)  
-- Email: **otherhalifaxprojects@gmail.com**
+📧 **otherhalifaxprojects@gmail.com**
+
+Please include a short subject line (e.g., “Lesson Topics”) so I can respond efficiently.
 
 ---
 
