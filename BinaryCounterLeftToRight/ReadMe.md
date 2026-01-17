@@ -4,7 +4,6 @@ This project implements a **9-bit binary counter** using an **Arduino Uno** and 
 
 
 ---
-<br>
 
 ## 📦 Features
 
@@ -15,7 +14,6 @@ This project implements a **9-bit binary counter** using an **Arduino Uno** and 
 
 
 ---
-<br>
 
 ## ⚙️ Recommended Hardware
 
@@ -25,13 +23,10 @@ This project implements a **9-bit binary counter** using an **Arduino Uno** and 
 - Breadboard and jumper wires
 - Optional: Portable USB battery pack (for standalone use)
 
-<br>
-
 [Binary Counter Circuit with Battery Pack and Extra Power LED]![20250518_180741](https://github.com/user-attachments/assets/082ad5d4-b6ed-446e-8e81-6745b9c80353)
 
 
 ---
-<br>
 
 ## 🔌 Wiring Diagram
 
@@ -54,7 +49,6 @@ For each LED:
 
 
 ---
-<br>
 
 ## 🧠 How It Works
 
@@ -66,9 +60,7 @@ For each LED:
 
 [Binary Counter Circuit with Binary Count = 511 & Extra Power LED]![20250518_180656](https://github.com/user-attachments/assets/55369363-7ba6-4e20-9cde-31e2d0caf910)
 
-
 ---
-<br>
 
 ## 📽️ Video Demonstration
 
@@ -80,15 +72,12 @@ Watch various projects on **Learning Arduino Concepts**:
 
 
 ---
-<br>
 
 ## 📝 License
 
 This project is **open-source** and free to use for **educational purposes**.
 
-
 ---
-<br>
 
 ## 💡 Tips
 
