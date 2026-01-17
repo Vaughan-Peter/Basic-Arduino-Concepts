@@ -24,6 +24,7 @@ This Arduino project demonstrates how to combine C++ and AVR Assembly in a sketc
 ## Learn Assembly and Arduino Coding
 
 Check out this video to learn about **assembly programming** and Arduino code concepts:  
+
 [![Learn Assembly and Arduino Coding](https://img.youtube.com/vi/98lr0yLt8ZY/0.jpg)](https://www.youtube.com/watch?v=98lr0yLt8ZY&t=2s)
 
 Watch more tutorials on my channel: [Learning Arduino Concepts](https://www.youtube.com/@Learning-Arduino-Concepts/videos)
