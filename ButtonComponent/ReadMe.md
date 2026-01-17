@@ -46,3 +46,12 @@ This project uses an Arduino to control six LEDs connected to pins D8–D13. A 3
 - You can expand this project to include more patterns or use a rotary encoder instead of a button
 
 ---
+
+## 📺 Featured Shorts
+
+- 🔗 [Watch Short 1](https://www.youtube.com/shorts/_jnG5FBIqdA)
+- 🔗 [Watch Short 2](https://www.youtube.com/shorts/1LlBJGCEUrE)
+- 🔗 [Watch Short 3](https://www.youtube.com/shorts/6Pcoy_tuTTU)
+- 🔗 [Watch Short 4](https://www.youtube.com/shorts/QT-7MoyOdkc)
+
+---
