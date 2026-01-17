@@ -44,3 +44,13 @@ struct Numbers {
 ## 📁 File
 
 - `Struct.ino` — Main sketch file
+
+---
+
+## 🎥 Check Out My YouTube Channel!
+
+I do not have a video for this project. However, explore **Arduino projects, tutorials, and shorts** on my channel:
+
+🔗 [Learning Arduino Concepts - YouTube Shorts](https://www.youtube.com/@Learning-Arduino-Concepts/shorts)
+
+---
