@@ -34,4 +34,11 @@ This Arduino project demonstrates **memory management concepts** using LEDs (D8�
 - Observe memory fragmentation effects  
 - Visualize SRAM usage on an Arduino 
  
+
 ---
+
+## 🎥 Check Out My YouTube Channel!
+
+I do not have a video for this project. However, explore **Arduino projects, tutorials, and shorts** on my channel:
+
+🔗 [Learning Arduino Concepts - YouTube Shorts](https://www.youtube.com/@Learning-Arduino-Concepts/shorts)
