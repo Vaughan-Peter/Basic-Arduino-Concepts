@@ -56,3 +56,12 @@ Watch a live demo of the project on YouTube:
 4. **Chase (One LED ON at a time)**
 
 ---
+
+## 📺 Featured Shorts
+
+- 🔗 [Watch Short 1](https://www.youtube.com/shorts/_jnG5FBIqdA)
+- 🔗 [Watch Short 2](https://www.youtube.com/shorts/1LlBJGCEUrE)
+- 🔗 [Watch Short 3](https://www.youtube.com/shorts/6Pcoy_tuTTU)
+- 🔗 [Watch Short 4](https://www.youtube.com/shorts/QT-7MoyOdkc)
+
+---
